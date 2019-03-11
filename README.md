@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-# Nuevas funcionalidades:
+# Funcionalidades:
 
   - Permite definir la zona horaria al iniciar el servicio
   - Permite definir parametros de JAVA al iniciar el servicio
