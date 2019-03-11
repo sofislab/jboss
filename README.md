@@ -9,6 +9,8 @@
   - Permite definir parametros de JAVA al iniciar el servicio
   - Permite definir el id del usuario que iniciará el contenedor
   - El jboss se descarga al iniciar el servicio por primera vez, si ya fue descargado se omite este paso.
+  - Non-root
+  - Openshift compatible
 
 ### Iniciar
 
